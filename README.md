@@ -1,3 +1,4 @@
 # python-ci-cd-example
+This repository demonstrates CI/CD with Docker.
 
-# Test the Workflow
+Updated on 2024-11-24.
